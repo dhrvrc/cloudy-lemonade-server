@@ -7,5 +7,9 @@ A secure cloud storage application built for [TBA (Some cloud for example: Googl
 - Access Management Dashboard
 
 ## Dependencies 
+| Dependency | Version     | Install                                   |
+|------------|-------------|-------------------------------------------|
+| Python     | 3.11.*      | [docs](https://www.python.org/downloads/) |
+| pip        | 24.2        | Should install with Python                |
 
 ## Quick Start
