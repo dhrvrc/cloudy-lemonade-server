@@ -8,7 +8,7 @@ from googleapiclient.http import MediaFileUpload
 
 class GoogleDriveInterface:
     def __init__(self):
-        self.service = self.authenticate()
+        pass
 
     def authenticate(self):
         creds, _ = google.auth.default()
